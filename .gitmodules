@@ -1,0 +1,6 @@
+[submodule "nlp-backend"]
+	path = nlp-backend
+	url = https://github.com/bilal-mustafa10/nlp-backend.git
+[submodule "nlp-frontend"]
+	path = nlp-frontend
+	url = https://github.com/bilal-mustafa10/nlp-frontend.git
